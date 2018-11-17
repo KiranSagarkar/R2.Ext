@@ -1,6 +1,6 @@
 # R2.Ext
-Common External dlls.
-External Dependencies:
+Common External dlls kept at one place for adding in references
+Please read respective license terms.
 
 1) IniParser writen by Ricardo Amores Hernández and released under MIT License
 https://github.com/rickyah/ini-parser 
